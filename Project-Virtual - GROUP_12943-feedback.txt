@@ -1,0 +1,10 @@
+Assignment: Coursework (extension only)
+Grade: 69.0
+General feedback:
+The students analyze the performance of the baseline model accurately. They report WER, number of forward computations, number of states, arcs and decoding times. I particularly like the detailed comparison shown in the table. Students tune self-loop and transition probabilities, use unigram probabilities, and include silent state in the WFST. Although the techniques are well described, the presentation can be improved. For instance, students could present a figure showing how WER varies depending on the self-loop probability. Students used threshold pruning, experimenting with different thresholds. I would suggest presenting a comparison figure as well. For advanced topic, all methods have been integrated, respectively. Good job.
+
+13, 14, 12, 30
+
+69
+
+Comments:
