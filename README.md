@@ -1,6 +1,5 @@
 # Automatic Speech Recognition Model
-
-Team members: S2620698, S2030247
+S2620698, S2030247
 ![Screenshot (87)](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/842e804b-5495-4077-ad1b-8232b0e6c8f9)
 
 ## Table of Contents
