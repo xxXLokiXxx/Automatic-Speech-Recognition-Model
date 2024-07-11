@@ -90,7 +90,7 @@ In your experimental work and report, consider the following:
 - **Forward Computations**: 32307072
 - **States, Arcs**: 117, 323
 
-## Installation
+## Installation (applicable in DICE machine only)
 1. Clone the repository:
     ```bash
     git clone https://github.com/YourUsername/ASR-Model.git
