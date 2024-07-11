@@ -1,7 +1,5 @@
 # Automatic Speech Recognition Model
 
-![Screenshot (84)](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/2cda964e-2601-4dce-a7fa-81e5d81720c0)
-
 
 ## Table of Contents
 - Introduction
@@ -90,6 +88,8 @@ In your experimental work and report, consider the following:
 - **Backtrace Time**: 0.087s
 - **Forward Computations**: 32307072
 - **States, Arcs**: 117, 323
+
+![Screenshot (84)](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/2cda964e-2601-4dce-a7fa-81e5d81720c0)
 
 ## Installation (applicable in DICE machine only)
 1. Clone the repository:
