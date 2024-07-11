@@ -1,7 +1,6 @@
 # Automatic Speech Recognition Model
 
-![a4240093-b609-47be-be25-58bc3859cc16](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/047854e1-8efc-41da-a35f-6b73740f5035)
-
+![Screenshot (87)](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/842e804b-5495-4077-ad1b-8232b0e6c8f9)
 
 ## Table of Contents
 - Introduction
