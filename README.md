@@ -1,4 +1,4 @@
-![image](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/43e9214d-c8f6-4e2e-baf0-4b03a6ad0679)# Automatic Speech Recognition Model 
+# Automatic Speech Recognition Model 
 
 ![Screenshot (87)](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/842e804b-5495-4077-ad1b-8232b0e6c8f9)
 
