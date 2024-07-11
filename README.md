@@ -1,4 +1,4 @@
-# Automatic Speech Recognition Model (S2620698, S2030247)
+![image](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/43e9214d-c8f6-4e2e-baf0-4b03a6ad0679)# Automatic Speech Recognition Model 
 
 ![Screenshot (87)](https://github.com/xxXLokiXxx/Automatic-Speech-Recognition-Model/assets/99037815/842e804b-5495-4077-ad1b-8232b0e6c8f9)
 
@@ -110,8 +110,8 @@ In your experimental work and report, consider the following:
     jupyter notebook
     ```
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+## Contributor
+S2620698, S2030247
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
